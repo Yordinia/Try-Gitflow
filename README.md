@@ -1,2 +1,2 @@
 # Try-Gitflow
- * Not github flow !! (practice)
+ * Its gitflow Not github-flow !! (practice)
